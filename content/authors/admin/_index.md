@@ -57,6 +57,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/donato-crisostomi/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=56z9EQgAAAAJ&hl=it
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,8 +74,14 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an enthusiastic *computer science* researcher driven by an unmatched amount of curiosity.
+I am an enthusiastic Ph.D. student in Computer Science at Sapienza, University of Rome, where I am part of the GLADIA research group, led by prof. Emanuele Rodolà.
 
-My interests span across various topics of the field, with a focus on modern *Artificial Intelligence*. My background includes hands-on research experience in **Natural Language Understanding**, **Computer Vision** and **Geometric Deep Learning**.
-I am particularly excited by frontier Machine Learning themes such as **Graph Representation Learning**, **Few-Shot Learning** and **Causality**.
+I believe curiosity to have a primary role in guiding research, and hence I am always looking forward to explore new  directions in my field. 
+My background includes hands-on research experience in **Natural Language Understanding**, **Computer Vision** and **Geometric Deep Learning**. 
+Some of my more stable interests include frontier Machine Learning themes such as **Graph Representation Learning**, **Few-Shot Learning** and **Causality**.
 
+I wholeheartedly advocate for cleaner code in ML, as complexity should not be fought with more complexity.
+Maybe unsurprisingly at this point, I really enjoy coding. Funnily enough, I enjoy it so much that I often code as a mean to get away from a tiring day of coding. 
+
+In my (too little) free time, I enjoy throwing away my laptop to reconnect with nature through hiking and/or camping. 
+Finally, like most of the humans on this planet, I enjoy travelling and good food.  
