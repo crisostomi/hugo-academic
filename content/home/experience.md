@@ -30,7 +30,8 @@ experience:
     location: Rome
     date_start: '2022-02-20'
     date_end: 
-    • Lecturer and mentor for the Deep Learning and Artiﬁcial Intelligence course
+    description: |2-
+        * Lecturer and mentor for the Deep Learning and Artiﬁcial Intelligence course
   
   - title: Research Scientist Intern
     company: Amazon
