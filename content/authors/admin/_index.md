@@ -59,14 +59,14 @@ social:
   link: https://www.linkedin.com/in/donato-crisostomi/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=56z9EQgAAAAJ&hl=it
+  link: https://scholar.google.com/citations?authuser=1&user=qi08d7kAAAAJ
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1z6ziPJsWd8UZH0XHoFY5CWbRdJaTvI_V/view?usp=sharing
+  link: https://drive.google.com/file/d/1hjZ6VFCEuvT4kYY8vJox5NkD3AtzeNas/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
