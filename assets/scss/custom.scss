@@ -5,3 +5,26 @@
 .GPA {
 	font-size: 14px;
 }
+
+.article-container {
+    max-width: 1000px;
+}
+
+.csl-entry{
+    font-size: medium;
+}
+
+.abstract-container {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.article-style .abstract {
+    max-width: 800px;
+    text-align: justify;
+}
+
+.article-style .abstract h1 {
+    text-align: center;
+}

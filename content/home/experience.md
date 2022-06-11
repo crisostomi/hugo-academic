@@ -23,20 +23,30 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Applied Scientist Intern
+    company: Amazon Search
+    company_url: ''
+    company_logo: 'Amazon_logo3'
+    location: Luxembourg
+    date_start: '2022-06-07'
+    date_end: 
+    description: |2-
+        * Conduct Machine Learning research to improve customers' product search experience
+
   - title: Teaching Assistant
     company: Sapienza, University of Rome
     company_url: ''
-    company_logo: 
+    company_logo: 'sapienza'
     location: Rome
     date_start: '2022-02-20'
-    date_end: 
+    date_end: '2022-06-01'
     description: |2-
         * Lecturer and mentor for the Deep Learning and Artiﬁcial Intelligence course
   
   - title: Research Scientist Intern
-    company: Amazon
-    company_url: ''
-    company_logo: 'Amazon_logo'
+    company: Amazon Alexa
+    company_url: 
+    company_logo: 'Amazon_logo3'
     location: Turin
     date_start: '2021-05-03'
     date_end: '2021-11-01'
@@ -47,8 +57,8 @@ experience:
         
   - title: Competitive Programming Mentor
     company: Sapienza, University of Rome
-    company_url: ''
-    company_logo: 
+    company_url: 
+    company_logo: 'sapienza'
     location: Rome
     date_start: '2020-09-22'
     date_end: '2020-10-22'
