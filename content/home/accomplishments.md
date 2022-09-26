@@ -23,11 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_start: "2019-11-21"
-  description: "Selected among all the students and PhDs of my faculty as one of the 20 most meritorious students to discuss the ethical and juridical implications of artificial intelligence."
-  organization: Italian Chamber of Deputies
-  title: Invited attendee at the conference for Ethics and Law of Artificial Intelligence
-  url: "https://fondazioneleonardo-cdm.com/it/news/statuto-etico-e-giuridico-dellintelligenza-artificiale/"
+- date_start: "2022-07-28"
+  date_end: ""
+  description: "My story was showcased on Amazon Science's website after a successful research internship in Turin. https://www.amazon.science/working-at-amazon/amazon-internships-summer-2022-experience-donato-crisostomi-science-intern"
+  organization: Amazon
+  title: Showcased on Amazon Science's website
+  url: "https://www.amazon.science/working-at-amazon/amazon-internships-summer-2022-experience-donato-crisostomi-science-intern"
   
 - date_end: ""
   date_start: "2020-08-03"
