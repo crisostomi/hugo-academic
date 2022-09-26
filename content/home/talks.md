@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -9,7 +9,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 100
 
 title: 'Recent & Upcoming Talks'
 subtitle:

@@ -28,12 +28,14 @@ item:
   organization: Italian Chamber of Deputies
   title: Invited attendee at the conference for Ethics and Law of Artificial Intelligence
   url: "https://fondazioneleonardo-cdm.com/it/news/statuto-etico-e-giuridico-dellintelligenza-artificiale/"
+  
 - date_end: ""
   date_start: "2020-08-03"
   description: Selected among the most meritorious CS students to attend a week of lectures with faculty from participating institutions on a variety of cutting-edge research topics in computer science.
   organization: Cornell, Maryland and Max Planck
   title: Pre-Doctoral Research School attendee
   url: https://cmmrs.mpi-sws.org/
+  
 - date_end: "2021-10-22"
   date_start: "2021-02-08"
   description: First place winner of a highly competitive extracurricular program aimed at training MSc students in conducting scientific research, regarding in my case meta-learning and few-shot learning.
