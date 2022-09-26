@@ -29,13 +29,6 @@ item:
   organization: Amazon
   title: Showcased on Amazon Science's website
   url: "https://www.amazon.science/working-at-amazon/amazon-internships-summer-2022-experience-donato-crisostomi-science-intern"
-
-- date_end: ""
-  date_start: "2020-08-03"
-  description: Selected among the most meritorious CS students to attend a week of lectures with faculty from participating institutions on a variety of cutting-edge research topics in computer science.
-  organization: Cornell, Maryland and Max Planck
-  title: Pre-Doctoral Research School attendee
-  url: https://cmmrs.mpi-sws.org/
   
 - date_end: "2021-10-22"
   date_start: "2021-02-08"
