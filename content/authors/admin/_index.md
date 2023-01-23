@@ -59,7 +59,7 @@ social:
   link: https://www.linkedin.com/in/donato-crisostomi/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?authuser=1&user=qi08d7kAAAAJ
+  link: https://scholar.google.com/citations?user=qi08d7kAAAAJ
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
