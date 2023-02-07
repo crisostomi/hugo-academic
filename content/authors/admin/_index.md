@@ -75,7 +75,7 @@ email: ""
 highlight_name: true
 ---
 
-I am an enthusiastic Ph.D. student in Computer Science at Sapienza, University of Rome, where I am part of the [GLADIA research group](https://gladia.di.uniroma1.it/members), led by prof. Emanuele Rodolà.
+I am an enthusiastic Ph.D. student in Computer Science at Sapienza, University of Rome, where I am part of the [GLADIA research group](https://gladia.di.uniroma1.it), led by prof. Emanuele Rodolà.
 
 I believe curiosity to have a primary role in guiding research, and hence I am always looking forward to explore new  directions in my field. 
 My background includes hands-on research experience in **Natural Language Understanding**, **Computer Vision** and **Geometric Deep Learning**. 
