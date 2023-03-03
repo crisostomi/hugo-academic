@@ -29,7 +29,7 @@ experience:
     company_logo: 'Amazon_logo3'
     location: Luxembourg
     date_start: '2022-06-07'
-    date_end: 
+    date_end: '2022-12-09'
     description: |2-
         * Conduct Machine Learning research to improve customers' product search experience
 
