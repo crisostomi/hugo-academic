@@ -1,3 +1,11 @@
+.paper-media{
+    display: flex;
+    align-items: center !important;
+    flex-direction: row-reverse !important;
+    column-gap: 30px;
+    padding-bottom: 40px;
+}
+
 .grade {
 	font-size: 14px;	
 }
