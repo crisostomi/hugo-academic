@@ -1,4 +1,11 @@
 ---
+superuser: true
+status:
+  icon: ""
+
+avatar:
+  shape: circle
+
 # Display name
 title: Donato Crisostomi
 
