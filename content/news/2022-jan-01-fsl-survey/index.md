@@ -27,4 +27,4 @@ slides: ""
 
 projects: []
 ---
-Our survey on Few-Shot Object Detection has just been published to [ACM Computing Surveys](https://dl.acm.org/journal/csur)!
+Our survey on [Few-Shot Object Detection](https://dl.acm.org/doi/abs/10.1145/3519022) has just been published to [ACM Computing Surveys](https://dl.acm.org/journal/csur)!

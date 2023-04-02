@@ -27,4 +27,4 @@ slides: ""
 
 projects: []
 ---
-Our work on Few-Shot Graph Classification has been accepted to [Learning on Graphs (LoG)](https://logconference.org/)!
+Our work on [Few-Shot Graph Classification](https://proceedings.mlr.press/v198/crisostomi22a.html) has been accepted to [Learning on Graphs (LoG)](https://logconference.org/)!
