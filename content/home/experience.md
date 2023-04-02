@@ -31,7 +31,8 @@ experience:
     date_start: '2022-06-07'
     date_end: '2022-12-09'
     description: |2-
-        * Conduct Machine Learning research to improve customers' product search experience
+        * Undertook research on Knowledge Graphs and Natural Language Understanding;
+        * Designed novel Deep Learning models for Query Understanding.
 
   - title: Teaching Assistant
     company: Sapienza, University of Rome
@@ -41,7 +42,7 @@ experience:
     date_start: '2022-02-20'
     date_end: '2022-06-01'
     description: |2-
-        * Lecturer and mentor for the Deep Learning and Artiﬁcial Intelligence course
+        •* Lecturer and mentor for the Deep Learning MSc course.
   
   - title: Research Scientist Intern
     company: Amazon Alexa
@@ -51,9 +52,8 @@ experience:
     date_start: '2021-05-03'
     date_end: '2021-11-01'
     description: |2- 
-        * Conducted Natural Language Understanding research for Alexa
-        * Designed and implemented ML models to solve business problems
-        * Performed hands-on data analysis and modeling with large data sets
+        * Conducted Natural Language Understanding research for Alexa;
+        * Reduced training times by up to 90% by designing a novel deduplication technique.
         
   - title: Competitive Programming Mentor
     company: Sapienza, University of Rome

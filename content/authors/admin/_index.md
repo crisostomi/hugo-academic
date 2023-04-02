@@ -27,8 +27,8 @@ bio: My research interests revolve around artificial intelligence, in particular
 interests:
 - Artificial Intelligence
 - Graph Representation Learning
-- Network Science
 - Few-Shot Learning
+- Multi-modality
 
 # Education to show in About widget
 education:
@@ -86,7 +86,7 @@ I am an enthusiastic Ph.D. student in Computer Science at Sapienza, University o
 
 I believe curiosity to have a primary role in guiding research, and hence I am always looking forward to explore new  directions in my field. 
 My background includes hands-on research experience in **Natural Language Understanding**, **Computer Vision** and **Geometric Deep Learning**. 
-Some of my more stable interests include frontier Machine Learning themes such as **Graph Representation Learning**, **Few-Shot Learning** and **Causality**.
+Some of my more stable interests include frontier Machine Learning themes such as **Graph Representation Learning**, **Few-Shot Learning** and **Multi-modality**.
 
 I wholeheartedly advocate for cleaner code in ML, as complexity should not be fought with more complexity.
 Maybe unsurprisingly at this point, I really enjoy coding. Funnily enough, I enjoy it so much that I often code as a mean to get away from a tiring day of coding. 
