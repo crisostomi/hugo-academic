@@ -42,7 +42,7 @@ experience:
     date_start: '2022-02-20'
     date_end: '2022-06-01'
     description: |2-
-        •* Lecturer and mentor for the Deep Learning MSc course.
+        * Lecturer and mentor for the Deep Learning MSc course.
   
   - title: Research Scientist Intern
     company: Amazon Alexa
