@@ -25,10 +25,11 @@ bio: My research interests revolve around artificial intelligence, in particular
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Graph Representation Learning
-- Few-Shot Learning
-- Multi-modality
+  - Artificial Intelligence
+  - Graph Representation Learning
+  - Multi-Modality
+  - Few-Shot Learning
+  - Natural Language Understanding
 
 # Education to show in About widget
 education:
