@@ -40,12 +40,12 @@ education:
   - course: MS.c. in Computer Science 
     institution: Sapienza, University of Rome
     grade: "110/110 with honours"
-    gpa: "GPA 30.5/30"
+    gpa: "GPA 30.5/31"
     year: 2021
   - course: BS.c. in Computer Science
     institution: Sapienza, University of Rome
     grade: "110/110 with honours"
-    gpa: "GPA 29.6/30"
+    gpa: "GPA 29.6/31"
     year: 2019
 
 # Social/Academic Networking
