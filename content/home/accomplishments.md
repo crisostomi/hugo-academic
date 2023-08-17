@@ -40,7 +40,7 @@ item:
   url: "https://www.amazon.science/working-at-amazon/amazon-internships-summer-2022-experience-donato-crisostomi-science-intern"
 
 - date_end: ""
-  date_start: "2022-10-20"
+  date_start: "2021-10-20"
   description: I won the **Ph.D. Scholarship** in Computer Science at the [Sapienza, University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), ranking first among all the candidates.
   organization: Sapienza, University of Rome
   title: Doctoral Fellowship
