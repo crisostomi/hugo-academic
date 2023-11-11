@@ -74,7 +74,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1hjZ6VFCEuvT4kYY8vJox5NkD3AtzeNas/view?usp=sharing
+  link: https://drive.google.com/file/d/135Pv-9r8t-TvbzzRG-uXLDoi3Q0iFfFY/view?usp=drive_link
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -85,12 +85,12 @@ highlight_name: true
 
 I am an enthusiastic Ph.D. student in Computer Science at Sapienza, University of Rome, where I am part of the [GLADIA research group](https://gladia.di.uniroma1.it), led by prof. Emanuele Rodolà.
 
-I believe curiosity to have a primary role in guiding research, and hence I am always looking forward to explore new  directions in my field. 
-My background includes hands-on research experience in **Natural Language Understanding**, **Computer Vision** and **Geometric Deep Learning**. 
+I believe curiosity to have a primary role in guiding research, and hence I am always looking forward to explore new  directions in my field.
+My background includes hands-on research experience in **Natural Language Understanding**, **Computer Vision** and **Geometric Deep Learning**.
 Some of my more stable interests include frontier Machine Learning themes such as **Graph Representation Learning**, **Few-Shot Learning** and **Multi-modality**.
 
 I wholeheartedly advocate for cleaner code in ML, as complexity should not be fought with more complexity.
-Maybe unsurprisingly at this point, I really enjoy coding. Funnily enough, I enjoy it so much that I often code as a mean to get away from a tiring day of coding. 
+Maybe unsurprisingly at this point, I really enjoy coding. Funnily enough, I enjoy it so much that I often code as a mean to get away from a tiring day of coding.
 
-In my (too little) free time, I enjoy throwing away my laptop to reconnect with nature through hiking and/or camping. 
+In my (too little) free time, I enjoy throwing away my laptop to reconnect with nature through hiking and/or camping.
 Finally, like most of the humans on this planet, I enjoy travelling and good food.  
