@@ -17,15 +17,15 @@ role: Ph.D. candidate in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Sapienza, University of Rome
+- name: Sapienza University of Rome
   url: https://www.uniroma1.it/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests revolve around artificial intelligence, in particular causality, meta-learning and geometric deep learning, especially when graphs are involved.
+bio: My research interests revolve around artificial intelligence, in particular model merging and representational alignment. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Model Merging
   - Graph Representation Learning
   - Multi-Modality
   - Few-Shot Learning
@@ -35,15 +35,15 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Science
-    institution: Sapienza, University of Rome
+    institution: Sapienza University of Rome
     year: present 
   - course: MS.c. in Computer Science 
-    institution: Sapienza, University of Rome
+    institution: Sapienza University of Rome
     grade: "110/110 with honours"
     gpa: "GPA 30.5/31"
     year: 2021
   - course: BS.c. in Computer Science
-    institution: Sapienza, University of Rome
+    institution: Sapienza University of Rome
     grade: "110/110 with honours"
     gpa: "GPA 29.6/31"
     year: 2019
@@ -83,7 +83,7 @@ email: ""
 highlight_name: true
 ---
 
-I am an enthusiastic Ph.D. student in Computer Science at Sapienza, University of Rome, where I am part of the [GLADIA research group](https://gladia.di.uniroma1.it), led by prof. Emanuele Rodolà.
+I am an enthusiastic Ph.D. student in Computer Science at Sapienza University of Rome, where I am part of the [GLADIA research group](https://gladia.di.uniroma1.it), led by prof. Emanuele Rodolà.
 
 I believe curiosity to have a primary role in guiding research, and hence I am always looking forward to explore new  directions in my field.
 My background includes hands-on research experience in **Natural Language Understanding**, **Computer Vision** and **Geometric Deep Learning**.
