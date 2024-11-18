@@ -72,9 +72,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: https://drive.google.com/file/d/135Pv-9r8t-TvbzzRG-uXLDoi3Q0iFfFY/view?usp=drive_link
+# - icon: cv
+#   icon_pack: ai
+#   link: https://drive.google.com/file/d/135Pv-9r8t-TvbzzRG-uXLDoi3Q0iFfFY/view?usp=drive_link
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -83,11 +83,11 @@ email: ""
 highlight_name: true
 ---
 
-I am an enthusiastic Ph.D. student in Computer Science at Sapienza University of Rome, where I am part of the [GLADIA research group](https://gladia.di.uniroma1.it), led by prof. Emanuele Rodolà.
+I am a 3rd year Ph.D. student in Computer Science at Sapienza University of Rome, where I am part of the [GLADIA research group](https://gladia.di.uniroma1.it), led by prof. Emanuele Rodolà.
 
 I believe curiosity to have a primary role in guiding research, and hence I am always looking forward to explore new  directions in my field.
 My background includes hands-on research experience in **Natural Language Understanding**, **Computer Vision** and **Geometric Deep Learning**.
-Some of my more stable interests include frontier Machine Learning themes such as **Graph Representation Learning**, **Few-Shot Learning** and **Multi-modality**.
+Some of my more stable interests include frontier Machine Learning themes such as **Model Merging**, **Representational Aligment** and **Graph Representation Learning**.
 
 I wholeheartedly advocate for cleaner code in ML, as complexity should not be fought with more complexity.
 Maybe unsurprisingly at this point, I really enjoy coding. Funnily enough, I enjoy it so much that I often code as a mean to get away from a tiring day of coding.
