@@ -17,7 +17,7 @@ date: '2024-11-08'
 lastmod: 2024-11-08T:26:44
 featured: false
 draft: false
-publication_short: "Preprint"
+publication_short: "ArXiv"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
