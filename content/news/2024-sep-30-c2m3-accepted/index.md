@@ -27,4 +27,4 @@ slides: ""
 
 projects: []
 ---
-My [Cycle-Consistent Multi-Model Merging](https://arxiv.org/abs/2405.17897) paper has been accepted at NeurIPS 2024! 🎉
+Our [Cycle-Consistent Multi-Model Merging](https://arxiv.org/abs/2405.17897) paper has been accepted at NeurIPS 2024! 🎉
