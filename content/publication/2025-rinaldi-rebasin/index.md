@@ -9,9 +9,9 @@ authors:
 - Giacomo Capitani
 - Lorenzo Bonicelli
 - Angelo Porrello
-- crisostomi
+- admin
 - Federico Bolelli
-- rodola
+- Emanuele Rodolà
 - Elisa Ficarra
 - Simone Calderara 
 
