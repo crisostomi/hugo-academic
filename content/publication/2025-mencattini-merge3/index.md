@@ -23,7 +23,7 @@ date: '2025-02-27'
 lastmod: 2025-02-27T:26:44
 featured: false
 draft: false
-publication_short: "ArXiv"
+publication_short: "ICML 2025"
 
 image:
   caption: ''
@@ -44,5 +44,5 @@ links:
   name: 'GitHub'
   url: https://github.com/tommasomncttn/mergenetic
 
-publication: '*ArXiv preprint*'
+publication: '*ICML 2025*'
 ---
